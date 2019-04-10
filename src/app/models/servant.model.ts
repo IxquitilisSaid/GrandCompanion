@@ -1,5 +1,6 @@
 export class Servant {
   constructor(
+    public servantId: number,
     public minAtk: number,
     public maxAtkBase: number,
     public maxAtkGrail: number,
@@ -13,6 +14,7 @@ export class Servant {
     public npChargeOnDef: number,
     public npChargeOnAtk: number,
     public name: string,
+    public thumbUrl: string,
     public imgUrls: [],
     public traits: [],
     public passiveSkills: [],
