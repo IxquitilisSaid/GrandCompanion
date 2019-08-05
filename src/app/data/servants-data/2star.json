@@ -1,0 +1,95 @@
+{
+  "items": [
+    {
+      "id": 471,
+      "title": "Caligula",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f9/Caligulanew1.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/512/window-height/512?cb=20180406083703",
+      "original_dimensions": { "width": 512, "height": 724 }
+    },
+    {
+      "id": 639,
+      "title": "Charles-Henri Sanson",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/1/16/Sansonnew1.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/512/window-height/512?cb=20180406090257",
+      "original_dimensions": { "width": 512, "height": 724 }
+    },
+    {
+      "id": 419747,
+      "title": "Chen Gong",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/0e/S258Stage1.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/512/window-height/512?cb=20190805123058",
+      "original_dimensions": { "width": 512, "height": 724 }
+    },
+    {
+      "id": 577,
+      "title": "Edward Teach",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d2/Teachnew1.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/512/window-height/512?cb=20180406090959",
+      "original_dimensions": { "width": 512, "height": 724 }
+    },
+    {
+      "id": 708,
+      "title": "Eric Bloodaxe",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/86/Ericnew1.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/512/window-height/512?cb=20180406083835",
+      "original_dimensions": { "width": 512, "height": 724 }
+    },
+    {
+      "id": 420262,
+      "title": "Gareth",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/ea/S256Stage1.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/512/window-height/512?cb=20190805124809",
+      "original_dimensions": { "width": 512, "height": 724 }
+    },
+    {
+      "id": 662,
+      "title": "Georgios",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/27/Georgenew1.png/revision/latest/scale-to-width-down/200?cb=20180406084139",
+      "original_dimensions": { "width": 512, "height": 724 }
+    },
+    {
+      "id": 429,
+      "title": "Hans Christian Andersen",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/2f/Hansnew1.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/512/window-height/512?cb=20180406084324",
+      "original_dimensions": { "width": 512, "height": 724 }
+    },
+    {
+      "id": 692,
+      "title": "Hassan of the Cursed Arm",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/b7/Fappynew1.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/512/window-height/512?cb=20180406084005",
+      "original_dimensions": { "width": 512, "height": 724 }
+    },
+    {
+      "id": 372,
+      "title": "Leonidas I",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/1/14/Leonidasnew1.png/revision/latest/scale-to-width-down/200?cb=20180406084711",
+      "original_dimensions": { "width": 512, "height": 724 }
+    },
+    {
+      "id": 550,
+      "title": "Musashibō Benkei",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/57/Benkeinew1.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/512/window-height/512?cb=20180406083540",
+      "original_dimensions": { "width": 512, "height": 724 }
+    },
+    {
+      "id": 419322,
+      "title": "Paris",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/db/S255Stage1.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/512/window-height/512?cb=20190805122744",
+      "original_dimensions": { "width": 512, "height": 724 }
+    },
+    {
+      "id": 697,
+      "title": "Phantom of the Opera",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/66/PhantomOperaNewStage1.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/512/window-height/512?cb=20180405180252",
+      "original_dimensions": { "width": 512, "height": 724 }
+    },
+    {
+      "id": 420282,
+      "title": "Salome",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/e3/S260Stage1.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/512/window-height/512?cb=20190805125813",
+      "original_dimensions": { "width": 512, "height": 724 }
+    },
+    {
+      "id": 617,
+      "title": "William Shakespeare",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/61/Shakespearnew1.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/512/window-height/512?cb=20180406090500",
+      "original_dimensions": { "width": 512, "height": 724 }
+    }
+  ],
+  "basepath": "https://fategrandorder.fandom.com"
+}

@@ -1,0 +1,71 @@
+{
+  "items": [
+    {
+      "id": 318,
+      "title": "Arash",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/cd/Arashnew1.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/512/window-height/512?cb=20180406083257",
+      "original_dimensions": { "width": 512, "height": 724 }
+    },
+    {
+      "id": 484,
+      "title": "Asterios",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/a6/Asteriosnew1.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/512/window-height/512?cb=20180406083110",
+      "original_dimensions": { "width": 512, "height": 724 }
+    },
+    {
+      "id": 418862,
+      "title": "Bartholomew Roberts",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/61/S257Stage1.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/512/window-height/512?cb=20190805122909",
+      "original_dimensions": { "width": 512, "height": 724 }
+    },
+    {
+      "id": 419105,
+      "title": "Charlotte Corday",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/79/S259Stage1.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/512/window-height/512?cb=20190805123327",
+      "original_dimensions": { "width": 512, "height": 724 }
+    },
+    {
+      "id": 418973,
+      "title": "Jason",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/c6/S254Stage1.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/512/window-height/512?cb=20190805071141",
+      "original_dimensions": { "width": 512, "height": 724 }
+    },
+    {
+      "id": 444,
+      "title": "Mata Hari",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/5c/Mataharinew1.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/512/window-height/512?cb=20180406084847",
+      "original_dimensions": { "width": 512, "height": 724 }
+    },
+    {
+      "id": 253574,
+      "title": "Minotaur",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/1/1b/Minotaur_portrait.png/revision/latest/window-crop/width/200/x-offset/124/y-offset/0/window-width/769/window-height/768?cb=20180406061709",
+      "original_dimensions": { "width": 1013, "height": 768 }
+    },
+    {
+      "id": 136680,
+      "title": "Paul Bunyan",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/20/PaulBunyan1.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/512/window-height/512?cb=20170802140354",
+      "original_dimensions": { "width": 512, "height": 724 }
+    },
+    {
+      "id": 357,
+      "title": "Sasaki Kojirō",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/4/46/Kojironew1.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/512/window-height/512?cb=20180406084507",
+      "original_dimensions": { "width": 512, "height": 724 }
+    },
+    {
+      "id": 498,
+      "title": "Spartacus",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/b6/Spartacusnew1.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/512/window-height/512?cb=20180406090819",
+      "original_dimensions": { "width": 512, "height": 724 }
+    },
+    {
+      "id": 674,
+      "title": "Wolfgang Amadeus Mozart",
+      "thumbnail": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f0/Mozartnew1.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/512/window-height/512?cb=20180406085732",
+      "original_dimensions": { "width": 512, "height": 724 }
+    }
+  ],
+  "basepath": "https://fategrandorder.fandom.com"
+}
